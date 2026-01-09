@@ -4,20 +4,6 @@
 
 This repository contains implementations of core Artificial Intelligence algorithms and techniques, demonstrating problem-solving methods, search algorithms, and fuzzy logic applications.
 
-
-## 📁 Repository Structure
-
-```
-Search Algorithms & Fuzzy Logic/
-├── README.md                          # This file
-├── Search Algorithms/   # Search algorithm implementations
-│   ├── search-algorithms.py                 # DFS and A* implementations
-│   └── README.md                      # Search algorithms documentation
-├── Fuzzy Logic/         # Fuzzy logic implementation
-│   ├── fuzzy-logic.ipynb              # Jupyter notebook
-└   └── README.md                     # Fuzzy logic documentation
-```
-
 ## 🎯 Implemented Solutions
 
 ### Search Algorithms
