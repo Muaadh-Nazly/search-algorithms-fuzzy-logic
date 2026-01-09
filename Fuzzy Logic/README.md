@@ -1,4 +1,4 @@
-# Question 4: Fuzzy Logic - Error Likelihood Prediction
+# Fuzzy Logic - Error Likelihood Prediction
 
 ## 📋 Overview
 
